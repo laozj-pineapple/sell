@@ -7,4 +7,4 @@ spring:
     password: root
     url: jdbc:mysql://127.0.0.1/sell?characterEncoding=utf-8&useSSL=false
 env: 
- dev1232221
+ dev

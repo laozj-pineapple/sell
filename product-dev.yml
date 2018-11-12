@@ -1,4 +1,6 @@
 spring:
+  application:
+    name: product
   rabbitmq:
     addresses: localhost
     host: 5672

@@ -1,0 +1,9 @@
+zuul:
+  routes:
+    product: /myProduct/**
+  ignored-patterns:
+    - /myProduct/product/listForOrder
+  sensitive-headers:
+management:
+  security:
+    enabled: false
